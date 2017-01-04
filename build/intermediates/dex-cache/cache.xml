@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/lemkhantar1/Documents/Apps/Apparallel/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/lemkhantar1/Documents/Apps/Apparallel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_fa14ca9a8fc1d51cf459510f02f23d61226b79a6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lemkhantar1/Documents/Apps/Apparallel/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0a5617e24bafc102bac91c57a92b47642ffa5438">
+        <dex dex="/Users/lemkhantar1/Documents/Apps/Apparallel/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_22b79d4c73bb5cbf7c721db72b28d2eaa4d13bd1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lemkhantar1/Documents/Apps/Apparallel/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/lemkhantar1/Documents/Apps/Apparallel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_bd1c27e393753b1412add17bc787b5e2899951a5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lemkhantar1/Documents/Apps/Apparallel/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6ff796a3173787afe2e712f3aec6f5b99796118e">
+        <dex dex="/Users/lemkhantar1/Documents/Apps/Apparallel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.6.1_96c1fed7dfaba630f247517118b3e6922c811ef6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lemkhantar1/Documents/Apps/Apparallel/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ee0ccb43f6ab276191b7f2d77c305fa9beb26db9">
+        <dex dex="/Users/lemkhantar1/Documents/Apps/Apparallel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.6.1_13249ac7afda78871caee2c3c7d9736a5adfc04f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lemkhantar1/Documents/Apps/Apparallel/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="eff9688ad8272139c9a385ba02318e7ec55cfd23">
+        <dex dex="/Users/lemkhantar1/Documents/Apps/Apparallel/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ce0123265322fe7a9c8188e8daff4bd45a42825b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lemkhantar1/Documents/Apps/Apparallel/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/lemkhantar1/Documents/Apps/Apparallel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_484d5e6a7551139e489d762acd4745bcfc56e249/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lemkhantar1/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/lemkhantar1/Documents/Apps/Apparallel/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_e8d8106d7e77cd74d234d17ed40c3b8d6f2c412f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lemkhantar1/Documents/Apps/Apparallel/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/lemkhantar1/Documents/Apps/Apparallel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_3b7238e44a9854d2ea87919773b762d6c8232ac9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lemkhantar1/Documents/Apps/Apparallel/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="/Users/lemkhantar1/Documents/Apps/Apparallel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.6.1_5d7132f2b51cfa54484fc3e4a80c2a1973368dfe/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lemkhantar1/Documents/Apps/Apparallel/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/lemkhantar1/Documents/Apps/Apparallel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_aded97f388d510157b586e9793e57a39614e93f0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lemkhantar1/Documents/Apps/Apparallel/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ee61ace5f3e488fc610e1c67693c49186a441f32">
+        <dex dex="/Users/lemkhantar1/Documents/Apps/Apparallel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.6.1_dd71acc52165717da8877caf69eff2ebd71f018b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lemkhantar1/Documents/Apps/Apparallel/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="/Users/lemkhantar1/Documents/Apps/Apparallel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.6.1_71e52447acb8c45f339c3d72b877fcfbfc589d13/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lemkhantar1/Documents/Apps/Apparallel/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="47bbb3ec4b31ba71e125241c090dabe70cbb4de7">
+        <dex dex="/Users/lemkhantar1/Documents/Apps/Apparallel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.6.1_71f7940604189011f9279113ffc8dd720dd5e16d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lemkhantar1/Documents/Apps/Apparallel/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="/Users/lemkhantar1/Documents/Apps/Apparallel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.6.1_ef9e9abb373fc622fc37b8d02ea84c71fe7162da/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lemkhantar1/Documents/Apps/Apparallel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/lemkhantar1/Documents/Apps/Apparallel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_7840eb07cff146f4dbd39c2df6c3ea4a1575a1a5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lemkhantar1/Documents/Apps/Apparallel/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/lemkhantar1/Documents/Apps/Apparallel/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_629aa403886e8a4e607174a104efa2dd0105ca5b/classes.dex" />
+    </item>
+
+</items>

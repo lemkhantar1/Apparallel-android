@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Apparallel</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="aide">-_-_- Help -_-_-\nThis application allows you to organize your daily tasks .\nIt simply create a list of tasks by specifying the title and duration of each task, and then select the current task to boot the countdown .\nAt the end of each countdown, the application will alert you so that you pass on something else !!\nGood day and stay productive!</string>
+    <string name="Banner_ad_unit_id">ca-app-pub-6350646623087769/5701210335</string>
+    <string name="Interstitial_ad_unit_id">ca-app-pub-6350646623087769/7177943533</string>
+</resources>
